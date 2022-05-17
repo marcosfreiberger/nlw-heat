@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  ![DoWhile](nlw-heat/tree/main/web/src/assets/logo.svg)
+  ![DoWhile](web/src/assets/logo.svg)
 
 </div>
 
